@@ -10,7 +10,7 @@ A personally curated list places to visit while travelling
 * [New York](new-york-city.md)
 * Portland
 * [San Francisco](san-francisco.md)
-* Seattle
+* [Seattle](seattle.md)
 
 ## Asia
 * Hong Kong
@@ -27,4 +27,3 @@ A personally curated list places to visit while travelling
 * Edinburgh
 * [London](london.md)
 * [Rotterdam](rotterdam.md)
-
