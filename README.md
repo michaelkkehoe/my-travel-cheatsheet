@@ -2,7 +2,7 @@
 A personally curated list places to visit while travelling
 
 ## Americas
-* Denver
+* [Denver](denver.md)
 * Las Vegas
 * Nashville
 * New Orleans
