@@ -8,5 +8,5 @@ A personally curated list places to visit while travelling
 ## Australasia
 
 ## Europe
-* [London][london.md]
+* [London](london.md)
 
