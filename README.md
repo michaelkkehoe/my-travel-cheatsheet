@@ -2,11 +2,12 @@
 A personally curated list places to visit while travelling
 
 ## Americas
+* Atlanta
 * [Denver](denver.md)
 * Las Vegas
 * Nashville
 * New Orleans
-* New York
+* [New York](new-york-city.md)
 * Portland
 * [San Francisco](san-francisco.md)
 * Seattle
