@@ -8,7 +8,7 @@ A personally curated list places to visit while travelling
 * New Orleans
 * New York
 * Portland
-* San Francisco
+* [San Francisco](san-francisco.md)
 * Seattle
 
 ## Asia
