@@ -20,7 +20,7 @@ A personally curated list places to visit while travelling
 ## Australasia
 * Brisbane
 * [Melbourne](melbourne.md)
-* Sydney
+* [Sydney](sydney.md)
 
 ## Europe
 * [Amsterdam](amsterdam.md)
