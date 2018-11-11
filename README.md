@@ -15,7 +15,7 @@ A personally curated list places to visit while travelling
 ## Asia
 * Hong Kong
 * Singapore
-* Vietnam
+* [Vietnam](vietnam.md)
 
 ## Australasia
 * Brisbane
