@@ -10,14 +10,15 @@
 * [GIBSON](http://www.gibsonbar.sg/) (50 Best Bars 2018 #76)
 * [The Other Room](https://www.theotherroom.com.sg/) (50 Best bars 2018 #93)
 * Potato Head
+* [The Long Bar](https://www.raffles.com/singapore/dining/long-bar/)
 
 # Restaurants
+* [Tanglin Club](https://www.ladyironchef.com/2017/07/best-brunch-singapore/)
+* [Singapore Cricket Club](http://www.scc.org.sg/)
 
+# Food
+* [Hawker Chan](https://guide.michelin.com/sg/liao-fan-hawker-chan/restaurant) (1 Michelin Star)
 
-# Other Food
-
-
-# Brunch
 
 # Hotels
 * Marina Bay Sands
@@ -30,3 +31,9 @@
 * Gardens by the Bay (Supertree Grove/ Cloud Forest)
 * Bugis Street Market
 * Temple St Chinatown
+
+# References
+* https://www.ladyironchef.com/2017/07/best-brunch-singapore/
+* https://thehoneycombers.com/singapore/top-10-brunches-in-singapore/
+* https://www.businessinsider.com/singapore-travel-on-a-budget-2018-8
+* https://www.businessinsider.com/pictures-of-food-in-singapore-2013-3
