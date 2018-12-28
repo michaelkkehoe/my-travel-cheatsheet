@@ -4,6 +4,7 @@ A personally curated list places to visit while travelling
 ## Americas
 * Atlanta
 * [Denver](denver.md)
+* [Kentucky](kentucky.md)
 * [Las Vegas](las-vegas.md)
 * Nashville
 * New Orleans
@@ -13,8 +14,8 @@ A personally curated list places to visit while travelling
 * [Seattle](seattle.md)
 
 ## Asia
-* Hong Kong
-* Singapore
+* [Hong Kong](hong-kong.md)
+* [Singapore](singapore.md)
 * [Vietnam](vietnam.md)
 
 ## Australasia
