@@ -15,6 +15,7 @@
 * Maison Libanaise
 * Okra
 * Potato Head
+* Bistecca
 
 # Food
 * McDonalds Next (New concept)
@@ -29,3 +30,4 @@
 # References
 * https://www.thisisinsider.com/best-new-restaurants-in-hong-kong-2016-6#okra-4
 * https://www.fodors.com/world/asia/china/hong-kong/restaurants
+* http://www.hong-kong-hotels.ws/top10/top10-rooftop-hong-kong.htm
