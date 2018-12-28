@@ -11,6 +11,8 @@
 * [The Other Room](https://www.theotherroom.com.sg/) (50 Best bars 2018 #93)
 * Potato Head
 * [The Long Bar](https://www.raffles.com/singapore/dining/long-bar/)
+* [NATIVE](http://tribenative.com/)
+* [Smoke & Mirrors](https://www.smokeandmirrors.com.sg/wp-content/uploads/2018/12/SM_FESTIVE-MENUW.pdf)
 
 # Restaurants
 * [Tanglin Club](https://www.ladyironchef.com/2017/07/best-brunch-singapore/)
@@ -18,7 +20,7 @@
 
 # Food
 * [Hawker Chan](https://guide.michelin.com/sg/liao-fan-hawker-chan/restaurant) (1 Michelin Star)
-
+* [Satay by the Bay](https://www.sataybythebay.com.sg/)
 
 # Hotels
 * Marina Bay Sands
@@ -37,3 +39,5 @@
 * https://thehoneycombers.com/singapore/top-10-brunches-in-singapore/
 * https://www.businessinsider.com/singapore-travel-on-a-budget-2018-8
 * https://www.businessinsider.com/pictures-of-food-in-singapore-2013-3
+* https://www.visitsingapore.com/dining-drinks-singapore/dining/
+* https://www.visitsingapore.com/editorials/michelin-bib-gourmand-winners-singapore/
