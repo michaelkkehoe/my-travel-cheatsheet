@@ -1,8 +1,11 @@
 # my-travel-cheatsheet
-A personally curated list places to visit while travelling
+A personally curated list places to visit while travelling (or potentially travelling to and did forward research)
 
 ## Americas
+* Ann Arbor
 * Atlanta
+* Austin
+* Boston
 * [Denver](denver.md)
 * [Kentucky](kentucky.md)
 * [Las Vegas](las-vegas.md)
@@ -11,6 +14,7 @@ A personally curated list places to visit while travelling
 * [New York](new-york-city.md)
 * [Portland](portland.md)
 * [San Francisco](san-francisco.md)
+* Salt Lake City
 * [Seattle](seattle.md)
 
 ## Asia
@@ -25,6 +29,8 @@ A personally curated list places to visit while travelling
 
 ## Europe
 * [Amsterdam](amsterdam.md)
+* Dublin
 * Edinburgh
 * [London](london.md)
+* Prague
 * [Rotterdam](rotterdam.md)
