@@ -13,6 +13,10 @@
 * Andiron Steak & Sea
 * Downtown Terrace (Container Park)
 
+# Airport Food (LAS)
+## E Gates
+* Las Vegas Chophouse & Brewery
+
 # References
 * https://vegas.eater.com/maps/iconic-desserts-las-vegas-restaurants
 * https://www.thrillist.com/eat/las-vegas/best-brunch-in-las-vegas
