@@ -34,6 +34,12 @@
 * Spark Social (Food Park)
 * Off The Grid
 
+# Airport Eating (SFO)
+## International G
+* United Polaris Lounge
+* Napa Farms Market 
+* Tomokazu (Japanese)
+
 # Brunch
 * Fillmore Social Club
 * The Saratoga
