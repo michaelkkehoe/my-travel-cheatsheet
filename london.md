@@ -30,6 +30,10 @@ I would personally recommend the following bars (in order)
 * Poppie's Fish & Chips
 & Aldwych Cafe (Breakfast)
 
+# Airport Eating (LHR)
+## Terminal 2
+* The Perfectionists’ Cafe
+
 # Bottle Shops (In order)
 * Hendoism Wines
 * The Whiskey Exchange
