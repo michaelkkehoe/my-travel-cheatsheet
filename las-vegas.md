@@ -1,9 +1,13 @@
 # Bars
 * Delmonico Steakhouse (don't go for food)
+* Chandelier
 * Beauty & Essex
+* The Dorsey
+* Oak & Ivy
 
 # Restaurants
 * Holstein's Buns & Shakes
+* Rivea (rooftop restaurant)
 
 # Dessert
 * Andrea's [Mt Fuji](https://vegas.eater.com/maps/iconic-desserts-las-vegas-restaurants/mt-fuji-at-andrea-s)
@@ -23,3 +27,4 @@
 * https://www.thrillist.com/drink/las-vegas/best-bars-in-las-vegas
 * https://www.vegas.com/traveltips/top-10-las-vegas-bars/
 * https://vegas.eater.com/maps/best-las-vegas-bars-lounges
+* https://thepointsguy.com/guide/10-things-no-one-tells-you-about-las-vegas/
