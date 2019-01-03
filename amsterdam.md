@@ -2,7 +2,7 @@
 A guide (in order)
 * Tales & Spirits
 * Bar The Tailor
-* Bluesppon
+* Bluespoon
 * Pulitzer's Bar
 * Bar Feijoa
 * Flying Dutchmen
