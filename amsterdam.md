@@ -8,7 +8,7 @@ A guide (in order)
 * Flying Dutchmen
 * SkyLounge Amsterdam (don't go for the view)
 * Proeflokaal de Ooevaar
-* WHiskey Care L & B
+* Whiskey Cafe L & B
 
 # Restaurants
 * Salvatorica (Handmade Pasta)
