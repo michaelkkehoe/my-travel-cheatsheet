@@ -4,14 +4,27 @@
 * Beauty & Essex
 * The Dorsey
 * Oak & Ivy
+* The Golden Tiki
+* Hers & Rye
+* Libertine Social
+
 
 # Restaurants
 * Holstein's Buns & Shakes
 * Rivea (rooftop restaurant)
+* Black Tap Craft Burgers & Beer*
+* Pizza Rock Las Vegas
+* bBds
+* Cleaver
+* The Black Sheep
+* Echo & Rig
+* Bazaar Meat by José Andrés
+* FukuBurger
 
 # Dessert
 * Andrea's [Mt Fuji](https://vegas.eater.com/maps/iconic-desserts-las-vegas-restaurants/mt-fuji-at-andrea-s)
 * Strip House [24-Layer Chocolate Cake](https://vegas.eater.com/maps/iconic-desserts-las-vegas-restaurants/24-layer-chocolate-cake-at-strip-house)
+* Gordon Ramsay Steak (Sticky Toffee Pudding)
 
 # Brunch
 * Andiron Steak & Sea
