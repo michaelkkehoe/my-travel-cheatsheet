@@ -9,6 +9,7 @@ A personally curated list places to visit while travelling (or potentially trave
 * [Denver](denver.md)
 * [Kentucky](kentucky.md)
 * [Las Vegas](las-vegas.md)
+* Montreal
 * Nashville
 * New Orleans
 * [New York](new-york-city.md)
@@ -16,6 +17,7 @@ A personally curated list places to visit while travelling (or potentially trave
 * [San Francisco](san-francisco.md)
 * Salt Lake City
 * [Seattle](seattle.md)
+* Whistler
 
 ## Asia
 * [Hong Kong](hong-kong.md)
