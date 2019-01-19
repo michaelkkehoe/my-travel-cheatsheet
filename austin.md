@@ -33,3 +33,5 @@
 * https://www.thrillist.com/eat/austin/best-restaurants-austin
 * https://austin.eater.com/maps/best-brunches-austin-restaurants
 * https://austin.eater.com/maps/best-brunches-austin-restaurants-heatmap
+* https://austin.eater.com/maps/best-whiskey-bars-austin
+* https://www.thrillist.com/drink/austin/downtown/the-10-best-whiskey-bars-in-austin-thrillist-austin
