@@ -1,26 +1,24 @@
 # Bars
 * Sidecut Bar (Four Season)
-* Bearfoot Bistro
-* The Mallard Lounge and Terrace
-* Bar Oso
+* Bearfoot Bistro*
+* The Mallard Lounge and Terrace*
 
 # Restaurants
-* Sidecut Bar (Four Season)
-* Sidecut (Four Seasons)
-* Stonesedge
-* The Brickworks
-* Hunter Gatherer
 * Christine’s on Blackcomb
-* Rendezvous Lodge
+* Stonesedge
+* Sidecut Bar (Four Season)
+* Hy Steakhouse*
+* The Brickworks**
+* Hunter Gatherer
+
 
 # Food
 * Peaked Pies
-* Zogs Dogs
-* Dusty's BBQ
+* Portobello
 
 # Brunch
 * Stonesedge
-* The Brickwords
+* The Brickworks
 * Purebread
 
 # Hotels
