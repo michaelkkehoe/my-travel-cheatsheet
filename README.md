@@ -4,11 +4,12 @@ A personally curated list places to visit while travelling (or potentially trave
 ## Americas
 * Ann Arbor
 * Atlanta
-* Austin
-* Boston
+* [Austin](austin.md)
+* [Boston](boston.md)
 * [Denver](denver.md)
 * [Kentucky](kentucky.md)
 * [Las Vegas](las-vegas.md)
+* Louisville
 * Montreal
 * Nashville
 * New Orleans
@@ -17,7 +18,7 @@ A personally curated list places to visit while travelling (or potentially trave
 * [San Francisco](san-francisco.md)
 * Salt Lake City
 * [Seattle](seattle.md)
-* Whistler
+* [Whistler](whistler.md)
 
 ## Asia
 * [Hong Kong](hong-kong.md)
