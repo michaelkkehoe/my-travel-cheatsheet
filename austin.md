@@ -19,6 +19,8 @@
 * Black's BBQ
 * Terry Black's BBQ
 * Lamberts BBQ
+* Snow's BBQ
+* Salt Lick BBQ
 
 # Brunch
 
