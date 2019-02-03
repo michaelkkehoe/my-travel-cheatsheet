@@ -3,6 +3,7 @@
 * Mermaid Lounge (Tiki)
 * Jade Buddah
 * Up on Constance
+* Cobbler (Whisky)
 
 
 # Restaurants
@@ -17,6 +18,7 @@
 * 51st Street (American)
 * Walter's Steakhouse and Bar
 * Tom Ugly's (Pizza)
+* Verve (Italian)
 
 # Food
 * The Yiro's Shop (Greek)
@@ -34,3 +36,7 @@
 
 # References
 * https://theweekendedition.com.au/food-drink/brisbanes-best-american-barbecue-restaurants/
+* https://blog.queensland.com/2018/05/29/brisbane-best-bars/
+* https://www.stayatbase.com/brisbane/best-bars-in-brisbane/
+* https://theculturetrip.com/pacific/australia/articles/the-10-best-bars-in-brisbane-australia-travel-guide/
+* https://www.visitbrisbane.com.au/information/articles/eat-and-drink/brisbane-best-bars?sc_lang=en-au
