@@ -18,6 +18,7 @@ A personally curated list places to visit while travelling (or potentially trave
 * [San Francisco](san-francisco.md)
 * Salt Lake City
 * [Seattle](seattle.md)
+* [Washington-DC](washington-dc.md)
 * [Whistler](whistler.md)
 
 ## Asia
