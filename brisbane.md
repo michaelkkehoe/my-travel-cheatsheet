@@ -19,6 +19,7 @@
 * Walter's Steakhouse and Bar
 * Tom Ugly's (Pizza)
 * Verve (Italian)
+* [Ahmet's](http://ahmets.com/)(Turkish)
 
 # Food
 * The Yiro's Shop (Greek)
