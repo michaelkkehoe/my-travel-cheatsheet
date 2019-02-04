@@ -22,3 +22,6 @@ In rough order
 * 10 Below Icecream
 * Tipsy Scoop
 * Serendipity
+
+# References
+* https://ny.eater.com/maps/best-bars-happy-hour-east-village-nyc-where-to-drink
