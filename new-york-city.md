@@ -25,3 +25,4 @@ In rough order
 
 # References
 * https://ny.eater.com/maps/best-bars-happy-hour-east-village-nyc-where-to-drink
+* https://www.youtube.com/playlist?list=PLeZtj7Fr1ENz5xmcevZ0zSra0Zqq0Ovca
