@@ -5,7 +5,6 @@
 * Up on Constance
 * Cobbler (Whisky)
 
-
 # Restaurants
 * [Phat Elephant](http://phatelephant.com.au)
 * [Seoul Bistro](https://www.seoulbistro.com.au/)(Koren)
@@ -20,6 +19,12 @@
 * Tom Ugly's (Pizza)
 * Verve (Italian)
 * [Ahmet's](http://ahmets.com/)(Turkish)
+* [Libertine](http://libertine.net.au/) (French-Vietnamese)
+* [e'cco](https://eccobistro.com.au/)
+* Otto (Italian)
+* [The Wolfe](http://thewolfeeastbrisbane.com.au/)
+* [Montrachet](http://montrachet.com.au/) (French)
+* [1889 Enoteca](https://www.1889enoteca.com.au) (Italian)
 
 # Food
 * The Yiro's Shop (Greek)
@@ -32,6 +37,7 @@
 * The Bloom Room Cafe
 
 # Hotels
+* The Pulllman
 
 # Attractions
 
