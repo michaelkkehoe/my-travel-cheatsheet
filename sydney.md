@@ -40,7 +40,8 @@
 * [Loaded by BL](http://loadedbybl.com.au/)*
 * [Milky Lane](https://milkylane.co/menu/)(Burgers & Shakes)*
 * Ribs & Burgers*
-* [ortune of War](https://www.fortuneofwar.com.au/)(Pub)
+* [Fortune of War](https://www.fortuneofwar.com.au/)(Pub)
+* Smokey Sues
 
 # Dessert
 * Black Star Pastry
