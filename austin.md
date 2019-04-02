@@ -21,6 +21,7 @@
 * Lamberts BBQ
 * Snow's BBQ
 * Salt Lick BBQ
+* Rudy's BBQ - Get the extra moist brisket
 
 # Brunch
 
