@@ -44,3 +44,6 @@
 * https://austin.eater.com/maps/best-brunches-austin-restaurants-heatmap
 * https://austin.eater.com/maps/best-whiskey-bars-austin
 * https://www.thrillist.com/drink/austin/downtown/the-10-best-whiskey-bars-in-austin-thrillist-austin
+* https://austin.eater.com/2016/2/16/11024478/barbecue-breakfast-brunch-austin
+* https://www.theinfatuation.com/austin/guides/best-brunch-austin
+* https://austin.eater.com/maps/best-brunches-austin-restaurants
