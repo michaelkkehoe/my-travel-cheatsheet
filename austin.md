@@ -5,6 +5,10 @@
 * The Roosevelt Room
 * Small Victory
 * Midnight Cowboy
+* Here Nor There (Need membership)
+* The Whisper Room (Intercontinental)
+* Garage
+* The Secret Bar in the W
 
 # Restaurants
 * Lin Asian Bar & Dim Sum
@@ -24,6 +28,8 @@
 * Rudy's BBQ - Get the extra moist brisket
 
 # Brunch
+* Stubbs
+* Lamberts BBQ
 
 # Attractions
 
