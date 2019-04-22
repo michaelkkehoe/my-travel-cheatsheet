@@ -26,7 +26,7 @@
 * Cliff House
 * Rich Table
 * Alliotto's
-* Liho-Liho Yackt Club
+* Liho-Liho Yacht Club
 
 # Other Food
 * Souvla (Popular greek)
