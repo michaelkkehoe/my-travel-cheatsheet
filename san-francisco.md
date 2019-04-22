@@ -50,6 +50,10 @@
 * Presidio Social Club
 * Little Skillet
 
+# Treats
+* Salt & Straw
+* Smitten
+
 # Attractions
 * Coit Tower
 * Fishermans Wharf/ Pier 39
