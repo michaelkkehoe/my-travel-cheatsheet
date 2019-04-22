@@ -2,7 +2,8 @@
 ## Whisky
 * Hardwater (don't go for cocktails)
 * Bourbon & Branch
-* Rickhouse
+* Rickhouse (don't go for cocktails)
+* The Saratoga
 ## Rum
 * Smugglers Cove
 * Last Rites
@@ -14,11 +15,13 @@
 * Louies
 * Tempest
 * Connecticut Yankee
+## Other Great Bars
 * Trick Dog
 * Noir Lounge (food!)
 * UpCider (Cider & food)
 * Swig
 * Rooftop 25
+* Lillie Coits (Not Yet Open)
 
 # Restaurants
 * Tony's Pizza (MUST DO!)
@@ -27,12 +30,14 @@
 * Rich Table
 * Alliotto's
 * Liho-Liho Yacht Club
+* The Saratoga
 
 # Other Food
 * Souvla (Popular greek)
 * Soma SrEAT Food Park
 * Spark Social (Food Park)
 * Off The Grid
+* Chubby Noodle (Asian Fusion)
 
 # Airport Eating (SFO)
 ## International G
