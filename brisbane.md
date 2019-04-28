@@ -35,6 +35,7 @@
 * Pawpaw Cafe
 * Samson & Sophie
 * The Bloom Room Cafe
+* WakexBrew West End
 
 # Hotels
 * The Pulllman
