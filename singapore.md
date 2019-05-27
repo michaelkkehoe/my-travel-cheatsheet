@@ -17,10 +17,31 @@
 # Restaurants
 * [Tanglin Club](https://www.ladyironchef.com/2017/07/best-brunch-singapore/)
 * [Singapore Cricket Club](http://www.scc.org.sg/)
+* Tippling Club 
+* [Burnt Ends](https://burntends.com.sg/) (1 Michelin Star)
 
 # Food
 * [Hawker Chan](https://guide.michelin.com/sg/liao-fan-hawker-chan/restaurant) (1 Michelin Star)
 * [Satay by the Bay](https://www.sataybythebay.com.sg/)
+
+## Dim Sum
+* Asia Grand
+* Yan Ting
+* Peach Blossom
+* Summer Palace
+* Hai Tien Lo
+
+## Hawker Centers
+* Chinatown Complex Food Centre
+* Old Airport Road Food Centre
+* Maxwell Road Hawker Centre
+* Lau Pa Sat Hawker Centre
+* Tiong Bahru Market
+* Tekka Centre
+* Makansutra Gluttons Bay
+* Singapore Food Treats 
+* Chomp Chomp Hawker Centre
+* [Satay by the Bay](https://www.sataybythebay.com.sg)
 
 # Hotels
 * Marina Bay Sands
