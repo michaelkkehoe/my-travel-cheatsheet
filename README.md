@@ -37,5 +37,5 @@ A personally curated list places to visit while travelling (or potentially trave
 * Dublin
 * Edinburgh
 * [London](london.md)
-* Prague
+* [Prague](prague.md)
 * [Rotterdam](rotterdam.md)
