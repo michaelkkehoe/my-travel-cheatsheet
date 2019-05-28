@@ -10,6 +10,11 @@ https://sf.eater.com/maps/san-francisco-bay-area-michelin-restaurants-stars-2019
 8. Rich Table
 9. State Bird Provisions
 
+# Prague
+https://www.tasteofprague.com/pragueblog/prague-michelin-star-restaurants-guide
+1. La Degustation
+2. Sansho
+
 # Washington DC
 https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 1. Blue Duck Tavern
