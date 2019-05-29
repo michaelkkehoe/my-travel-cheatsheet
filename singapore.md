@@ -44,7 +44,7 @@
 * Singapore Food Treats 
 * Chomp Chomp Hawker Centre
 * [Satay by the Bay](https://www.sataybythebay.com.sg)
-* Newton Circus (Featured in Crazy Rich Asians)
+* [Newton Circus](https://eatbook.sg/newton-food-centre/) (Featured in Crazy Rich Asians)
 
 # Hotels
 * Marina Bay Sands
