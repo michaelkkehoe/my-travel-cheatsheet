@@ -24,7 +24,17 @@
 * The Single Cask
 * The Auld Alliance (Must Go)
 * The Grande Whisky Collection (Museum)
-
+* The Whiskey Library
+* The ExciseMan
+* The Swan Song
+* Quaich Bar
+* The WoW, World Of Whiskey (Sentosa)
+* Room For More
+* The Writing Club
+* Flagship
+* The Wall
+* The Cooperage
+* Tipple and Dram
 
 # Restaurants
 * [Tanglin Club](https://www.ladyironchef.com/2017/07/best-brunch-singapore/)
@@ -36,6 +46,7 @@
 * [Hong Kong Soya Sauce Chicken Rice and Noodle/ Hawker Chan](https://guide.michelin.com/sg/liao-fan-hawker-chan/restaurant) (1 Michelin Star)
 * [Satay by the Bay](https://www.sataybythebay.com.sg/)
 * Tian Tian (Previously Michelin Starred)
+* Hill Street Tai Hwa Pork Noodle (Michelin Starred)
 
 ## Dim Sum
 * Asia Grand
@@ -80,3 +91,4 @@
 * https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_Singapore
 * http://danielfooddiary.com/2015/07/31/sgfoodbloggers/
 * https://www.visitsingapore.com/editorials/whisky-bars/
+* https://www.citynomads.com/whisky-lover-heres-the-best-5-bars-to-get-your-dram-on-in-singapore/
