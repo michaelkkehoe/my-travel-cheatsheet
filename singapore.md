@@ -21,8 +21,9 @@
 * [Burnt Ends](https://burntends.com.sg/) (1 Michelin Star)
 
 # Food
-* [Hawker Chan](https://guide.michelin.com/sg/liao-fan-hawker-chan/restaurant) (1 Michelin Star)
+* [Hong Kong Soya Sauce Chicken Rice and Noodle/ Hawker Chan](https://guide.michelin.com/sg/liao-fan-hawker-chan/restaurant) (1 Michelin Star)
 * [Satay by the Bay](https://www.sataybythebay.com.sg/)
+* Tian Tian (Previously Michelin Starred)
 
 ## Dim Sum
 * Asia Grand
@@ -32,13 +33,14 @@
 * Hai Tien Lo
 
 ## Hawker Centers
-* Chinatown Complex Food Centre
+* [Chinatown Complex Food Centre](https://www.thebestsingapore.com/best-place/chinatown-complex-food-centre/)
+* [Chinatown Food St](http://danielfooddiary.com/2014/03/07/chinatownfoodstreet/)
 * Old Airport Road Food Centre
-* Maxwell Road Hawker Centre
+* [Maxwell Road Hawker Centre](https://danielfooddiary.com/2015/08/27/maxwellfoodcentre/)
 * Lau Pa Sat Hawker Centre
-* Tiong Bahru Market
+* [Tiong Bahru Market](http://danielfooddiary.com/2014/05/05/tiongbahru/)
 * Tekka Centre
-* Makansutra Gluttons Bay
+* [Makansutra Gluttons Bay](https://www.tripsavvy.com/dining-at-makansutra-gluttons-bay-1629833)
 * Singapore Food Treats 
 * Chomp Chomp Hawker Centre
 * [Satay by the Bay](https://www.sataybythebay.com.sg)
@@ -63,3 +65,5 @@
 * https://www.businessinsider.com/pictures-of-food-in-singapore-2013-3
 * https://www.visitsingapore.com/dining-drinks-singapore/dining/
 * https://www.visitsingapore.com/editorials/michelin-bib-gourmand-winners-singapore/
+* https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_Singapore
+* http://danielfooddiary.com/2015/07/31/sgfoodbloggers/
