@@ -17,6 +17,8 @@
 * Potato Head
 * Bistecca
 * Fork Eat (Michelin Starred)
+* [Sky 100](https://sky100.com.hk/)
+* [Ciak](http://www.ciakconcept.com) (Michelin Star)
 
 # Food
 * McDonalds Next (New concept)
