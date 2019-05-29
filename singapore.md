@@ -13,6 +13,18 @@
 * [The Long Bar](https://www.raffles.com/singapore/dining/long-bar/)
 * [NATIVE](http://tribenative.com/)
 * [Smoke & Mirrors](https://www.smokeandmirrors.com.sg/wp-content/uploads/2018/12/SM_FESTIVE-MENUW.pdf)
+* Crossroads Bar
+* Bar Stories
+* The Secret Mermaid
+* Jekyll & Hyde
+* Ah Sam Cold Drink Stall
+## Whisky Bars
+* La Maison du Whisky
+* The Whisky Distillery
+* The Single Cask
+* The Auld Alliance (Must Go)
+* The Grande Whisky Collection (Museum)
+
 
 # Restaurants
 * [Tanglin Club](https://www.ladyironchef.com/2017/07/best-brunch-singapore/)
@@ -67,3 +79,4 @@
 * https://www.visitsingapore.com/editorials/michelin-bib-gourmand-winners-singapore/
 * https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_Singapore
 * http://danielfooddiary.com/2015/07/31/sgfoodbloggers/
+* https://www.visitsingapore.com/editorials/whisky-bars/
