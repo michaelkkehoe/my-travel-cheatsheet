@@ -20,6 +20,7 @@
 * Echo & Rig
 * Bazaar Meat by José Andrés
 * FukuBurger
+* Hakkasan
 
 # Dessert
 * Andrea's [Mt Fuji](https://vegas.eater.com/maps/iconic-desserts-las-vegas-restaurants/mt-fuji-at-andrea-s)
