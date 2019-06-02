@@ -26,8 +26,12 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 2. Yank Sing
 3. Tsubasa
 4. Dosa
+5. Nopalito
 
 # Plate Guide
+## New York
+1. Dinaosaur BBQ
+
 ## San Francisco
 1. Alexanders Steakhosue
 2. Foxsister
@@ -49,3 +53,4 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 18. Sorel
 19. Burma Superstar
 20. Bar Bocce
+21. Papito
