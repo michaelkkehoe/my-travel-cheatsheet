@@ -31,7 +31,7 @@ A personally curated list places to visit while travelling (or potentially trave
 * [Brisbane](brisbane.md)
 * [Melbourne](melbourne.md)
 * [Sydney](sydney.md)
-* [Tasmania](tasmania.md)
+* [Hobart](hobart.md)
 
 ## Europe
 * [Amsterdam](amsterdam.md)
