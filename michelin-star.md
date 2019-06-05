@@ -10,6 +10,7 @@ https://sf.eater.com/maps/san-francisco-bay-area-michelin-restaurants-stars-2019
 7. Mister Jiu's
 8. Rich Table
 9. State Bird Provisions
+10. Sorrel
 
 ## Prague
 https://www.tasteofprague.com/pragueblog/prague-michelin-star-restaurants-guide
