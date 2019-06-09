@@ -4,6 +4,16 @@
 3. Lost Pippin (Cidery)
 
 # Food
+* Aloft
+* Landscape Restaurant & Grill (Dinner only)
+* Franklin Bar & Restaurant
+* The Standard
+* Small Fry (Breakfast & Lunch only)
+* Drunken Admiral
+
+# Bars
+* The Glass House
+* Templo
 
 # References:
 1. https://www.theurbanlist.com/melbourne/a-list/best-restaurants-hobart
