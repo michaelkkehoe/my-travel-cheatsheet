@@ -11,6 +11,8 @@ https://sf.eater.com/maps/san-francisco-bay-area-michelin-restaurants-stars-2019
 8. Rich Table
 9. State Bird Provisions
 10. Sorrel
+11. Hashiri
+12. Spruce
 
 ## Prague
 https://www.tasteofprague.com/pragueblog/prague-michelin-star-restaurants-guide
@@ -55,3 +57,10 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 19. Burma Superstar
 20. Bar Bocce
 21. Papito
+22. Dish Dash
+23. Dopio Zero
+24. Papito
+25. Monsieur Benjamin
+
+
+Total 1 Star: 15
