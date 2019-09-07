@@ -13,6 +13,9 @@ https://sf.eater.com/maps/san-francisco-bay-area-michelin-restaurants-stars-2019
 10. Sorrel
 11. Hashiri
 12. Spruce
+13. Sons & Daughters
+14. Lazy Bear
+15. Saison
 
 ## Prague
 https://www.tasteofprague.com/pragueblog/prague-michelin-star-restaurants-guide
@@ -61,6 +64,3 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 23. Dopio Zero
 24. Papito
 25. Monsieur Benjamin
-
-
-Total 1 Star: 15
