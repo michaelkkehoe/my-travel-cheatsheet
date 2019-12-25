@@ -39,6 +39,7 @@
 # Restaurants
 ## Asian Fusion
 * Red Farm
+* Xian's Famous Foods
 
 ## Thai
 * Pure Thai Cookhouse
