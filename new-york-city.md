@@ -1,27 +1,76 @@
 # Bars
-In rough order
-* Amor y Amargo (100 best bars)
+## East Village (In rough order)
+* Amor y Amargo (Bitters)(100 best bars)
 * Attaboy (50 best bars)
-* Dead Rabbit (50 best bars)
 * Angels Share
 * Death & Co
-* Employees Only
 * PDT
-* Pouring Ribbons
+* Pouring Ribbons (Chartruese)
+* Windmill
+* Bluequarter
+* Beauty & Essex
+* Nitecap
+* Mace
+
+## Midtown
+* The Rum House (Rum)
+* Patent Pending
+* The Campbell
+* The Ragtrader & Bo Peep Cocktail and Highball Store
+* Winnie's Jazz Bar
+
+## Battery Park
+* Dead Rabbit (Irish) (50 best bars)
+* Blacktail (Cuban)
+
+## West Village
+* Brandy Library
+* Employees Only
+* Highlands
+
+## Rooftop Bars
 * Hotel Hugo
-* The Rum House
+* Refinery Rooftop
+* Henry’s Rooftop Bar
+* 230 fifth Rooftop
+* Dear Irving
+* Rainbow Room
 
 # Restaurants
+## Asian Fusion
 * Red Farm
+
+## Thai
 * Pure Thai Cookhouse
+
+## Korean
 * Bann
+
+## American
 * Mighty Quinn’s BBQ
+* Keens Steakhouse
+* American Cut Steakhouse Midtown
+* Emily (Burgers & Pizza)
+* Au Cheval
+
+## Pizza
+* Prince St Pizza
+* Grimaldi's
+* Lions, Tigers & Squares
+
+## Italian
+* Macchina
+
+## Other
+* Le Coq Rico
 
 # Dessert
 * Do
 * 10 Below Icecream
 * Tipsy Scoop
-* Serendipity
+* Serendipity 3
+* Mia's Brooklyn Bakery
+* Magnolia Bakery
 
 # References
 * https://ny.eater.com/maps/best-bars-happy-hour-east-village-nyc-where-to-drink
