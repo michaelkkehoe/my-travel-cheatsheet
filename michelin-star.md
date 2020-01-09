@@ -65,3 +65,6 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 24. Papito
 25. Monsieur Benjamin
 26. Flour & Water
+27. The Snug
+28. Robin
+29. Petite Cren
