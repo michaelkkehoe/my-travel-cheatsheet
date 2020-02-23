@@ -5,9 +5,15 @@
 * The Dorsey
 * Oak & Ivy
 * The Golden Tiki
-* Hers & Rye
+* Herbs & Rye
 * Libertine Social
-
+* The Underground Speakeasy & Distillery
+* The Golden Tiki
+* Bound Bar
+* NoMad Las Vegas
+* Whiskey Down
+* Franklin
+* Hazel Coffee & Cocktails
 
 # Restaurants
 * Holstein's Buns & Shakes
@@ -21,12 +27,20 @@
 * Bazaar Meat by José Andrés
 * FukuBurger
 * Hakkasan
-* Yard Bird
+* Yardbird
+* Carbone
+* Jean Georges Steakhouse
+* Juniper Cocktail Lounge
+* Bavette's Steakhouse & Bar
+* Tom Colicchio's Craftsteak
+* Libertine Social
+* Scotch 80 Prime
 
 # Dessert
 * Andrea's [Mt Fuji](https://vegas.eater.com/maps/iconic-desserts-las-vegas-restaurants/mt-fuji-at-andrea-s)
 * Strip House [24-Layer Chocolate Cake](https://vegas.eater.com/maps/iconic-desserts-las-vegas-restaurants/24-layer-chocolate-cake-at-strip-house)
 * Gordon Ramsay Steak (Sticky Toffee Pudding)
+* Donut Bar
 
 # Brunch
 * Andiron Steak & Sea
