@@ -1,21 +1,30 @@
 # Starred
 ## San Francisco
 https://sf.eater.com/maps/san-francisco-bay-area-michelin-restaurants-stars-2019
-1. Auberge du Soleil, an Auberge Resort
-2. Campton Place
-3. Gary Danko
-4. In Situ at SFMOMA
-5. Luce Restaurant
-6. Michael Mina
-7. Mister Jiu's
-8. Rich Table
-9. State Bird Provisions
-10. Sorrel
-11. Hashiri
-12. Spruce
-13. Sons & Daughters
-14. Lazy Bear
-15. Saison
+
+### 1 Star
+1. Spruce
+2. Sorrel
+3. State Bird Provisions
+4. Rich Table
+5. Birdsong (Takeout)
+6. Ju-ni (Takeout)
+7. Lord Stanley (Takeout)
+8. Hashiri
+9. Luce
+10. Sons & Daughters
+11. Gary Danko
+12. Mister Jiu's
+13. In Situ at SFMOMA
+14. Michael Mina
+15. Auberge du Soleil, an Auberge Resort (North Bay)
+16. La Taque (North Bay)
+
+### 2 Star
+
+1. Lazy Bear
+2. Saison
+3. Campton Place
 
 ## Prague
 https://www.tasteofprague.com/pragueblog/prague-michelin-star-restaurants-guide
@@ -30,9 +39,12 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 ## San Francisco
 1. Farmhouse Thai
 2. Yank Sing
-3. Tsubasa
-4. Dosa
+3. Tsubasa (closed)
+4. Dosa (closed)
 5. Nopalito
+6. Zero Zero
+7. Z & Y
+8. Harborview
 
 # Plate Guide
 ## New York
@@ -64,7 +76,11 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 23. Dopio Zero
 24. Papito
 25. Monsieur Benjamin
-26. Flour & Water
+26. Flour + Water
 27. The Snug
 28. Robin
 29. Petite Cren
+30. Central Kitchen
+31. Chapeau!
+32. Violet's
+33. Perbacco
