@@ -19,6 +19,7 @@ In rough order
 * Fete
 * Moku Kitchen (was pretty underwhelming)
 * Siena*
+* Uncle Bo's* (recommended to me several times)
 
 # Brunch/ Lunch
 * Moana Surfrider Beachhouse
