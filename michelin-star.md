@@ -35,6 +35,11 @@ https://www.tasteofprague.com/pragueblog/prague-michelin-star-restaurants-guide
 https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 1. Blue Duck Tavern
 
+## New York
+### 1 Star
+
+1. Le Jardinier
+
 # Bib Gourmand
 ## San Francisco
 1. Farmhouse Thai
