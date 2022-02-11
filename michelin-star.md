@@ -22,6 +22,7 @@ https://sf.eater.com/maps/san-francisco-bay-area-michelin-restaurants-stars-2019
 17. Marlena
 18. Omakase
 19. Mourad
+20. Al's Place
 
 ### 2 Star
 
