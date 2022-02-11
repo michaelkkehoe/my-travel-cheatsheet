@@ -97,3 +97,31 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 31. Chapeau!
 32. Violet's
 33. Perbacco
+
+
+# TODO's
+## San Francisco
+
+## 3 Star
+
+* Atelier Crenn
+* Benu
+* Quince
+
+## 2 Star
+
+* Birdsong
+* Coi
+
+## 1 Star
+
+* Wako
+* Ju-ni
+* The Progress
+* Avery
+* SPQR
+* Niku Steakhouse
+* Kin Khao
+* O
+* The Shota
+* Angler SF
