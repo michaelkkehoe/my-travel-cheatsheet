@@ -19,12 +19,17 @@ https://sf.eater.com/maps/san-francisco-bay-area-michelin-restaurants-stars-2019
 14. Michael Mina
 15. Auberge du Soleil, an Auberge Resort (North Bay)
 16. La Taque (North Bay)
+17. Marlena
+18. Omakase
+19. Mourad
 
 ### 2 Star
 
 1. Lazy Bear
 2. Saison
 3. Campton Place
+4. Californios
+5. Acquerello
 
 ## Prague
 https://www.tasteofprague.com/pragueblog/prague-michelin-star-restaurants-guide
@@ -50,6 +55,8 @@ https://washington.org/dc-guide-to/michelin-guide-dining-washington-dc
 6. Zero Zero
 7. Z & Y
 8. Harborview
+9. Horn BBQ
+10. Izakaya Rintaro
 
 # Plate Guide
 ## New York
