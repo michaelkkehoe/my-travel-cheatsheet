@@ -28,9 +28,17 @@
 * Tony's Pizza (MUST DO!)
 * Capo's Pizza (Owned by same person at Tony's)
 * North Beach Restaurant
-* 
+* Good Good Culture Club
+* Red Window
 * Rich Table
 * Liho-Liho Yacht Club
+
+# Sushi/ Japanese
+* Cafe Okawari
+* Robin
+* Omakase
+* Ju-Ni
+* Handroll Project
 
 # Other Food
 * Souvla (Popular greek)
