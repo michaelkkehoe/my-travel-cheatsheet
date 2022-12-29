@@ -1,23 +1,24 @@
 # Bars
 ## Whisky
-* Hardwater (don't go for cocktails)
 * Bourbon & Branch
 * Rickhouse (don't go for cocktails)
-* The Saratoga
+
 ## Rum
 * Smugglers Cove
 * Last Rites
 * Pagon Idol
 * Tonga Room
+
 ## Gin
 * Whitechapel
+
 ## Dive Bars
 * Louies
 * Tempest
 * Connecticut Yankee
+
 ## Other Great Bars
 * Trick Dog
-* Noir Lounge (food!)
 * UpCider (Cider & food)
 * Swig
 * Rooftop 25
@@ -26,18 +27,15 @@
 # Restaurants
 * Tony's Pizza (MUST DO!)
 * Capo's Pizza (Owned by same person at Tony's)
-* Cliff House
+* North Beach Restaurant
+* 
 * Rich Table
-* Alliotto's
 * Liho-Liho Yacht Club
-* The Saratoga
 
 # Other Food
 * Souvla (Popular greek)
-* Soma SrEAT Food Park
 * Spark Social (Food Park)
-* Off The Grid
-* Chubby Noodle (Asian Fusion)
+* Off The Grid (SUmmer only)
 
 # Airport Eating (SFO)
 ## International G
@@ -46,14 +44,19 @@
 * Tomokazu (Japanese)
 
 # Brunch
-* Fillmore Social Club
-* The Saratoga
+* Kitchen Story
 * NoPa
-* Oola
-* Straw
 * The Snug (Expensive)
 * Presidio Social Club
-* Little Skillet
+* Yank Sing (Dim Sum)
+* Pallete Tea House (Dim Sum)
+* Dumpling Time (Dim Sum)
+* Starbelly
+* Zazie (personally I think it's hyped, but people love it)
+* Sweet Maple (personally I think it's hyped, but people love it)
+* The Dorian (Food is ok, the venue is very fratty)
+* Fable (Nice outdoor seating)
+* Son and Garden (very instagramable, food is ok)
 
 # Treats
 * Salt & Straw
